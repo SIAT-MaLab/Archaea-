@@ -4,4 +4,4 @@
 * Identify CRISPR spacers.
 * Identification of archaeal viruses from the human gut
 ## 2.Figures. 
-R scripts for figures.
+* R scripts for figures.
